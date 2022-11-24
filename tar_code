@@ -1,3 +1,0 @@
-#!/usr/bin/bash
-
-tar cvf ./lib/$1.tar ./website
